@@ -81,6 +81,8 @@ Release and roadmap notes are available on the [WooCommerce Developers Blog](htt
 - Add: Remote inbox notifications contains comparison and fix product rule. #6073
 - Update: store deprecation welcome modal support doc link #6094
 - Enhancement: Allowing users to create products by selecting a template. #5892
+- Dev: Remove old debug code for connecting to Calypso / Wordpress.com. #6097
+
 
 == Changelog ==
 
